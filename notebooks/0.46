@@ -1,0 +1,63 @@
+
+Looking for: ['shap', 'xgboost', 'matplotlib', 'ipywidgets', 'plotly', 'scikit-learn', 'pandas', 'numpy']
+
+
+Pinned packages:
+  - python 3.13.*
+
+
+Transaction
+
+  Prefix: /home/snesbitt/envs/xarray-climate
+
+  Updating specs:
+
+   - shap
+   - xgboost
+   - matplotlib
+   - ipywidgets
+   - plotly
+   - scikit-learn
+   - pandas
+   - numpy
+   - ca-certificates
+   - certifi
+   - openssl
+
+
+  Package               Version  Build                Channel          Size
+─────────────────────────────────────────────────────────────────────────────
+  Install:
+─────────────────────────────────────────────────────────────────────────────
+
+  + slicer                0.0.8  pyhd8ed1ab_0         conda-forge      20kB
+  + plotly                6.4.0  pyhd8ed1ab_0         conda-forge       5MB
+  + colorama              0.4.6  pyhd8ed1ab_1         conda-forge      27kB
+  + tqdm                 4.67.1  pyhd8ed1ab_1         conda-forge      89kB
+  + libxgboost            3.1.1  cpu_h2ebb00f_0       conda-forge       4MB
+  + llvmlite             0.45.1  py313hdd307be_0      conda-forge      34MB
+  + numba                0.62.1  py313hd8e3f9f_0      conda-forge       6MB
+  + shap                 0.48.0  cpu_py313h56b592d_1  conda-forge       3MB
+  + py-xgboost            3.1.1  cpu_pyh35227d3_0     conda-forge     167kB
+  + xgboost               3.1.1  cpu_pyhb39878e_0     conda-forge      16kB
+
+  Upgrade:
+─────────────────────────────────────────────────────────────────────────────
+
+  - ca-certificates   2025.10.5  hbd8a1cb_0           conda-forge     156kB
+  + ca-certificates  2025.11.12  hbd8a1cb_0           conda-forge     152kB
+  - openssl               3.5.4  h26f9b46_0           conda-forge       3MB
+  + openssl               3.6.0  h26f9b46_0           conda-forge       3MB
+
+  Summary:
+
+  Install: 10 packages
+  Upgrade: 2 packages
+
+  Total download: 56MB
+
+─────────────────────────────────────────────────────────────────────────────
+
+
+numba-0.62.1-py313hd8e3f9f_0.conda extraction failed
+plotly-6.4.0-pyhd8ed1ab_0.conda extraction failed

@@ -1,0 +1,14 @@
+name: atms-shap
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+  - numpy
+  - pandas
+  - scikit-learn
+  - shap=0.44
+  - xgboost
+  - matplotlib
+  - ipywidgets
+  - plotly
+  - jupyterlab

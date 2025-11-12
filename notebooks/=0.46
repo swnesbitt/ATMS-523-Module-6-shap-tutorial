@@ -1,0 +1,65 @@
+
+Pinned packages:
+
+  - python=3.13
+
+
+Transaction
+
+  Prefix: /home/snesbitt/envs/xarray-climate
+
+  Updating specs:
+
+   - shap
+
+
+  Package           Version  Build            Channel           Size
+──────────────────────────────────────────────────────────────────────
+  Install:
+──────────────────────────────────────────────────────────────────────
+
+  + llvmlite         0.45.1  py313h265b4e5_0  pkgs/main         32MB
+  + numba            0.62.1  py313h23c847b_0  pkgs/main          6MB
+  + shap             0.47.2  py313hdc9ef3c_0  pkgs/main          3MB
+  + slicer            0.0.8  py313he08a061_1  pkgs/main         47kB
+  + tbb            2022.0.0  hdb19cb5_0       pkgs/main        193kB
+  + tqdm             4.67.1  py313h7040dfc_1  pkgs/main        160kB
+
+  Change:
+──────────────────────────────────────────────────────────────────────
+
+  - _libgcc_mutex       0.1  conda_forge      conda-forge     Cached
+  + _libgcc_mutex       0.1  main             pkgs/main       Cached
+
+  Upgrade:
+──────────────────────────────────────────────────────────────────────
+
+  - _openmp_mutex       4.5  2_gnu            conda-forge     Cached
+  + _openmp_mutex       5.1  1_gnu            pkgs/main       Cached
+
+  Summary:
+
+  Install: 6 packages
+  Change: 1 packages
+  Upgrade: 1 packages
+
+  Total download: 42MB
+
+──────────────────────────────────────────────────────────────────────
+
+
+
+Transaction starting
+Unlinking _libgcc_mutex-0.1-conda_forge
+Unlinking _openmp_mutex-4.5-2_gnu
+Linking llvmlite-0.45.1-py313h265b4e5_0
+Linking tbb-2022.0.0-hdb19cb5_0
+Linking _libgcc_mutex-0.1-main
+Linking slicer-0.0.8-py313he08a061_1
+Linking tqdm-4.67.1-py313h7040dfc_1
+Linking _openmp_mutex-5.1-1_gnu
+Linking numba-0.62.1-py313h23c847b_0
+Linking shap-0.47.2-py313hdc9ef3c_0
+
+Transaction finished
+

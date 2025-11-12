@@ -1,0 +1,9 @@
+numpy
+pandas
+scikit-learn
+shap==0.44.1
+xgboost
+matplotlib
+ipywidgets
+plotly
+jupyterlab
